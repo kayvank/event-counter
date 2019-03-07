@@ -8,15 +8,6 @@ Please only track counts, you do not have to track any data payload associated w
 Since the main use for a component like this is presenting diagnostic information on demand, it doesn’t have to persist data. Additionally, please do not spend time writing an example application that integrates the library, because we will not base our assessment on it. 
 We encourage you to reach out with any questions you have on the requirements and expectations.
 
-** Assessment: 
-We will assess your work on the following dimensions:
-*** You asked the right kinds of questions either via email or during the kick-off call
-*** The submission meets the technical requirements ("it works")
-*** It doesn't introduce negative side-effects like memory leaks under continued use
-*** The code in the submission is clean, readable, and well-structured
-*** The submission demonstrates clearly communicated reasoning
-
-
 ** Submittal: 
 You can submit your result in whatever format you prefer. If you wish to submit via Github, please make it a publicly accessible repo. 
 Testing and Documentation
