@@ -1,0 +1,13 @@
+\#*\#
+.\#*
+target/
+*.log
+**/.bloop
+.metals/
+**/.tags
+**/.TAGS
+*.swp
+.history
+.cache
+native/
+.envrc
