@@ -13,7 +13,7 @@ object Model {
   final case class Query(from: Int)
 
   object Data {
-    def apply: Data = new Data(Epoch().asSeconds, 1)
+    def apply(): Data = new Data(Epoch().asSeconds, 1)
   }
 
   object Query {
