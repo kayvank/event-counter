@@ -10,6 +10,7 @@ object ErrorCode extends Enumeration {
       underflow,
       overflow,
       UnsupportedOperation,
+      ConcurrencyError,
       unknown = Value
 }
 
